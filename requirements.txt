@@ -1,0 +1,7 @@
+openai==0.28
+spacy
+streamlit
+nltk
+gensim
+wordcloud
+python-dotenv
